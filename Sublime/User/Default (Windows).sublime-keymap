@@ -1,0 +1,7 @@
+[
+  {"keys": ["ctrl+shift+f"], "command": "beautify_ruby"},
+  { "keys": ["alt+shift+f"], "command": "reindent", "args": {"single_line": false} },
+  { "keys": ["ctrl+v"], "command": "clipboard_manager_paste", "args": { "indent": true } },
+  { "keys": ["shift+ctrl+v"], "command": "clipboard_manager_paste", "args": { "indent": false } },
+  { "keys": ["ctrl+h"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} }
+]

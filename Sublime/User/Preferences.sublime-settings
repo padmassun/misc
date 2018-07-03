@@ -1,0 +1,40 @@
+{
+	"auto_complete": true,
+	"auto_complete_commit_on_tab": true,
+	"binary_file_patterns":
+	[
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip",
+		"/C/Users/prajakar/projects/Server test/OpenStudio-analysis-spreadsheet/analysis_results/**",
+		"/C/Users/prajakar/projects/Test/Javascript test/src/data/**"
+	],
+	"color_scheme": "Packages/Materialize/schemes/Material Brogrammer.tmTheme",
+	"copy_with_empty_selection": true,
+	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"index_files": true,
+	"rulers":
+	[
+		79
+	],
+	"tab_size": 2,
+	"theme": "Material Brogrammer.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"BeautifyRuby",
+		"BracketHighlighter",
+		"Clipboard Manager",
+		"Color Highlighter",
+		"DashDoc",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"GitHub Flavored Markdown Preview",
+		"HTML-CSS-JS Prettify",
+		"JSHint",
+		"MarkdownEditing",
+		"MarkdownLivePreview",
+		"MarkdownPreview",
+		"Materialize",
+		"Origami",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"Strapdown Markdown Preview",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby"
+	]
+}
